@@ -1,0 +1,1 @@
+This folder contains the movie review sentiment analysis to demonstrate the use of pickle.
